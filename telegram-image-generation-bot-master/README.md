@@ -137,7 +137,7 @@ bot folder
 - `.env`: Configuration file for storing environment variables.
 - `out/`: Directory to store generated images.
 - `generate_html.py` : Will create index.html to access a website  image gallery
-
+- `bot_users.db` : Will store database of all users
 
 ## 5. Notes
 
